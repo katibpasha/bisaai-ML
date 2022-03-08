@@ -1,2 +1,2 @@
 # bisaai-ML
-Mata kuliah Machine Learning Program Studi Independen PT. Bisa Artifisial Indonesia
+This repository is used to document my learning progress in machine learning materials at the independent study program of PT. Bisa Artifisial Indonesia.
